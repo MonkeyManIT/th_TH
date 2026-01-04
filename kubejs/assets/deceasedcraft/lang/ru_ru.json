@@ -358,10 +358,10 @@
   "item.deceasedcraft.outlaw_badge": "Значок преступника",
   "item.deceasedcraft.outlaw_badge.description": "§6Дает шанс найти патроны для дробовика при обыске контейнеров.",
   "effectId.deceasedcraft.shotgun_ammo_loot": "",
-  "item.deceasedcraft.army_badge": "Значок армии",
+  "item.deceasedcraft.army_badge": "Значок солдата",
   "item.deceasedcraft.army_badge.description": "§6Дает шанс найти патроны для винтовки при обыске контейнеров.",
   "effectId.deceasedcraft.rifle_ammo_loot": "",
-  "item.deceasedcraft.special_forces_badge": "Значок специальных сил",
+  "item.deceasedcraft.special_forces_badge": "Значок спецразделения",
   "item.deceasedcraft.special_forces_badge.description": "§6Дает шанс найти патроны для снайперской винтовки при обыске контейнеров.",
   "effectId.deceasedcraft.sniper_ammo_loot": "",
   "item.deceasedcraft.elite_special_forces_badge": "Значок элитных специальных сил",
@@ -582,7 +582,7 @@
   "biome.minecraft.plains.color": "D89746",
   "travelerstitles.biome.minecraft.sunflower_plains": "Деловой центр | ☠☠ | 🌡Жарко",
   "biome.minecraft.sunflower_plains.color": "D89746",
-  "travelerstitles.biome.biomesoplenty.orchard": Деловой центр | ☠☠ | 🌡Жарко",
+  "travelerstitles.biome.biomesoplenty.orchard": "Деловой центр | ☠☠ | 🌡Жарко",
   "biome.biomesoplenty.orchard.color": "D89746",
   "travelerstitles.biome.biomesoplenty.pasture": "Деловой центр | ☠☠ | 🌡Жарко",
   "biome.biomesoplenty.pasture.color": "D89746",
@@ -2736,6 +2736,7 @@
   "npc.deceasedcraft.professor.quest.cure_sample.answer.1": ""
 
 }
+
 
 
 
